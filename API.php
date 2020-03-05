@@ -1,6 +1,6 @@
 <?php
 
-//namespace danog\MadelineProto;
+namespace danog\MadelineProto;
 
 use doc\{messages,
 	account,
